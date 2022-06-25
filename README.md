@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @xrijan
-- 👀 I’m New to software development community.
-- Trying to build my first app.
+- Future is AI
 
 <!---
 xrijan/xrijan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
